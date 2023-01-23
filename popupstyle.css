@@ -183,7 +183,7 @@
     }
     .x__subscribe-popup__image {
       width: 540px; /*change image size*/
-      background-image: url(./newevent.jpg); /*change image link*/
+      background-image: url(./newevent.jpeg); /*change image link*/
       background-size: cover;
       /* border-radius: 10px 0 0 10px; */
     }
